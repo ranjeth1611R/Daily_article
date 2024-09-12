@@ -1,0 +1,10 @@
+
+9/9/2024
+1. Today i learn from my friend praveen do not force for our happiness to manipulate them. 
+2. I think go outing with my friend. I like it very much and i think they will also like that. but He realize me now i'm free now we can move on. But on that on that time he will be commited or interested in some other work. then only i realize everyone as diffrent ways of think.
+3. I learned don't force anyone for anything to do that. always go with flow of life it is the keypoint of our happiness. More expectation are always give an more disappointment. Today i learned from him.
+4. Today i teach my friend Mr jayaprakash some basics problem. He solve some complex problem. But ho it work he dont have idea. so i teach him from basics level.
+      example : i have an array it contain the value from 1 to 10 number. I want to print only the even number from that array.
+5. Today i do some problem-solving while doing problem solve on one problem i have an doubt. But i have an idea which command i use to attain -1. So ask my friend Mr Santhosh he use array.indexof() if it empty then -1 will occur he told. 
+6. Today my friend Ms Deeptha explain me a lot command in vim-editor. She googled it to find the save, quit, save & quit, don't save and quit, short ersion of save and quit like that lot of think she teach me.
+7. Today my friend Ms Deeptha explain me how to push in the github. But she use direct don't use the vim-editor. she directly wrote an code in github and pushed it. so learned how to write any point to push directl from the github 
