@@ -1,0 +1,57 @@
+2/9/2024
+1. today i learn reduce concept details in javascript. because i solve one question and i see the alterate way to solve that question on that time. i get reduce is also on e alternate way
+2. today i faced one problem. so i want to find the solution for that problem so i discuss with my friend. he explain me way of thinking the concept of the problem. and then easy we find solution for the problem
+3. in today intenship class i learn one important thing in my life. what's the work we do it's not a matter. First we love that work and we do that work it's give u the happiness  it's improve my-self to become an best version (it's my personal feeling)
+4. today my mentor varun explain me problem-solving skills with an good example. so i like that way of thinking from him.
+
+3/9/2024
+1. today i learn in an internship class how to think logically. then only i realize that i have to improve my thinking.
+2. today i learn in javascript inside the sort method we can using callback function and that function will be until execute sort condition will be satisfied. then only i get more interested to learn javascript method. it create an impression for me
+3. today i'm some personal problem occur for me and i learned from that problem is a lonelyness and less expectation are always give an happiness for me. 
+ 
+4/9/2024
+1. today in an internship class i learn how to face the problems. how to find the probablity of solve the problem. 
+2. Don't keep your happiness on other person. like i will talk to him/her i can be do it. he/ she is my motivater. because if they avoid u will be in depression. so want to be strong always be alone. i learned this today.
+3. today i learn the remove the elements in an array by filter and splice method.
+4. today i learned by use an callback function in array method it act has nested loop. we should pratice everyday with consistancy. so we definately learn new-thing.
+5. today i learned we facing problem without we are knowing. our goal is to be reach the destination and then the problem-solving skills are improved. for example:i want to go to an office.(possiblities: by train, bus, bike, car)
+
+9/9/2024
+1. Today i learn from my friend praveen do not force for our happiness to manipulate them. 
+2. I think go outing with my friend. I like it very much and i think they will also like that. but He realize me now i'm free now we can move on. But on that on that time he will be commited or interested in some other work. then only i realize everyone as diffrent ways of think.
+3. I learned don't force anyone for anything to do that. always go with flow of life it is the keypoint of our happiness. More expectation are always give an more disappointment. Today i learned from him.
+4. Today i teach my friend Mr jayaprakash some basics problem. He solve some complex problem. But ho it work he dont have idea. so i teach him from basics level.
+      example : i have an array it contain the value from 1 to 10 number. I want to print only the even number from that array.
+5. Today i do some problem-solving while doing problem solve on one problem i have an doubt. But i have an idea which command i use to attain -1. So ask my friend Mr Santhosh he use array.indexof() if it empty then -1 will occur he told. 
+6. Today my friend Ms Deeptha explain me a lot command in vim-editor. She googled it to find the save, quit, save & quit, don't save and quit, short ersion of save and quit like that lot of think she teach me.
+7. Today my friend Ms Deeptha explain me how to push in the github. But she use direct don't use the vim-editor. she directly wrote an code in github and pushed it. so learned how to write any point to push directl from the github 
+
+
+10/9/2024
+1. Today internship class Mr koushik explain for us an logical thinking with an sentance.
+2. I know only three logical operators   AND, OR, NOT. Today MR koushik i learned biconditional oprerator. He explain when the condition get satisfied. it become true. 
+3. The way of explain the answer by Mr Koushik  is inspire me. because i love teaching and i want to learn a lot of things from him. Always i have an excitement while going to Mr Koushik class
+4. Today internship class Mr Koushik explained the sentance
+        If you get an A in mathematics. i will buy you an IPAD.
+   in this sentance if is an (keyword or an hint).In first sentance if mention that the condition is become true or false(both option). But in second condition they don't mention anything if the condition is not true. the statement is false
+5. Today i learn reduce concept in javascript. i learned all the method but i don't have an idea how to use. My mentor Mr varun teaching is inspired me.
+6. My mentor Mr varun always give me an lot of ideas to improve myself. I know he know everything. if any doubt is occur im search in GOOGLING. sometime it can't understand me. He teach me patiently.
+7. Today I'm stuggling what should i have to write in the Vim-editor My mentor Mr varun give an lot of idea then i realize lot thing we learned. example if any doubt i can't solve it. Mr varun help me to solve it a point to wrote it.
+8. Today while coming in train i watch whatapp status. My friend Mr Suman put the motivational status. so i learned from that don't tell your problem to everyone only share your our problem to the trushed peron and also don't try to prove that your are a good person to everyone. because everyone has problems how to face the problem and how to handle the problem you have to think. Because no one teach the solution for you. everyone give suggession and miserable for you. later on they know your weak. 
+9. Do not tell your weakness to anyone always be happy with what u have in our hand. It will give you an positive vibes to you. 
+
+11/9/2024
+     Today intership class Koushik revise the problem-solving way and then explain the the machine is dump. it can't do anything unless and until without we give an
+instruction. and then he want to realize us with an extrordinary example he told you are sitting here now u assume u are the robert. Now u have go to the self and 
+arrange the book in the genre wise. so now you have to write the algorithm for that robert. so we write instructions and then myself ranjeth act as a robert my partner
+harish read the instructions. then only we realize that how the ,machine is dump. we have to write correctly algorithm to do that. im realize impressed that his way of teaching.
+myfriend jayaprakash he have solve three problem yesterday on that one problem is find a mistake and then we discuss about the problem. what he do mean. he directly 
+put the problem i chatgpt and solve the answer. in initial time iam also like him only. then only mentor varun u have to improve yourself means don't use the chatgpt
+because mistake make person think better. so next time u use that line or command  u realize that u have sit to solve that around some hour or day. so next time u will
+do not repeat the mistake. my mentor always told me to googling to find the answer then only your knowledge is improve. so day by day we learn a lot of new think so
+googling to find the answer is the first step to improve the way of think. today i learn how use the command prompt with basic level instruction and then i teach that
+instructions to my friend jayaprakash some basic instructions i learned. and my friend deeptha give me an idea how she push the file in the github. my friend varun
+teach me at lastly because first u have to search and try to find and i can't find clearly and then he teach me how to push the file in github by using the commmand 
+prompt. and then he said that u have to search lot of thing and find how to makle it. he always make to improve my thinking power. use chatgpt or googling. so always
+focus on the solution. don't focus on the via i like varun teach. because he always molding me from STONE to IDOL. you want to be an idol you have to face a lot of
+ pain then only u can be an idol
