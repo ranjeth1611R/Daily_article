@@ -1,0 +1,9 @@
+16/9/2024
+   today i learn nest.js it's an node.js framework. a nest.js is an used to build an scalable server side web applications. first im facing a lot stuggle in that
+nest.js i read the documentation of the next.js file but i can't understand  and i also watch the youtube tutorial. i initial stage i understand and later the concept
+ goes on deeply i cannot understand. example in module, controller, provider are explain generate another module on that import in previous module and for that create
+ controller, prism, database connection goes on. i install nest.js but i can't understand how to implement the code to form an alignment. i have an clear idea
+i you want means you have try it definately u can learn something. so on saturday and sunday. i read the documentation, use chatgpt how to learn the nest.js and 
+youtube videos focussing on learning nest.js. i main notes the meaning of that mainly used word words like decorater means, controller, service, provider, DTO, 
+authetication, route handling, error handling so like concept i cover. today iask to my mentor varun how to learn it. he give some tips and also he send me some link 
+and the link are very help full to me for learn nest.js. i thank to my mentor because he always idol me. so now i understand some basic of nest.js.    
