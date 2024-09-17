@@ -1,0 +1,10 @@
+13/9/2024
+    today i read nest.js documentation i try to understand the concept of nest.js framework. We have to learn some framework means i think to refer an youtube videoos
+and googling it to know to about the basic of the framework. my mentor varun told about the documentation then only i know in the official website they are give a set
+set of rules and instructions about the framework details we can use that to learn the packages. then only we can utilize the all concept of the framework we learned.
+on that i stuggling how to use nest.js i cannot understand what they are told in the documentation. so i ask my mentor varun can i use the youtube. he clearly said one
+then if u want to learn any new framework at that u facing a lot of difficulties. now it's your training time to learn u can utilize that time and googling it how to 
+learn framework u know means at that time u want to learn any new framework. u can face it easily because face it how to handle that and also i documentation only
+they tell framework what is purpose and why we use that what is pros and cons tell it in details then i only i realize to study the documentation to  that framework. 
+in today kowshik class he discuss about the topic languages. a language is formed by literature, terminology, grammer, alphabets, pronunciation, punctuation mainly 
+used that six condition to form a language. he communicate with our computer language to teach detaily on next class. 
