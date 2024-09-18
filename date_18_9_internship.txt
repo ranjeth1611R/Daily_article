@@ -1,0 +1,10 @@
+18/9/24
+   today i learn in nest.js framework CRUD operation how it working. so what is decorator, provider, controller, services and why we use this what is the purpose of 
+using the framework im search this thing in the chatgpt. today i learned in crud operation how it working how to do the post and get http requests and response are happening in the nest.js
+framework in details. like why we use an private, readonly each word or method are how they are work in the nest.js im learn it today. my mentor varun also give me 
+an idea how to face a problem, how to think and solve the problem. i ask him a lot of doubt. he explain it me that doubt in patientally. he is only molding me daily.
+my friend varun and pravin speech are main think to study the nest.js in focusly without them  i will study but i don't think why this thing are using in this
+framework i can't think deeply. they only always says me to when u study something u have to focus and concentrated what are studying. why u study this. what is pros 
+and cons always know this thing to learn anything means your logical thing will improve u. because this is the precious time for u for learning how they are work. if 
+you know the everything about that language or framework means at the next time u learn any new language it is very easy for u for learn that framework. onl the 
+wording are changing not the concept are changed. so it easily to learn that language or framework. 
