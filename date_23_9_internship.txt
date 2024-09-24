@@ -1,0 +1,9 @@
+23/9/2024
+  Today in morning to afternoon i saw the concept of CRUD operation. The update method only become tough for me. Because for me it's little bit tough to understand 
+that how it's working. In update method while I'm saw only one object property are changed and on another method whole object property are changed. so what im done mean
+i watch and write the code first one object property it's understand for me. But while saw the whole object update method a little bit confusing is occur for
+me and then iam understand the second concept i have an clarity and by using chatgpt comparing the two code to teaches explain me then only i understand that how
+it's working. on afternoon i said to my mentor varun i understand the concept of CRUD operation. so next what i want to learn and how to make the ticket booking 
+application i asked him he said that before to do the ticket booking application u have to learn the concept of what is database, DBMS, how many datatypes are 
+available,what is postgres and how it work and then what is pros and cons of all this application he said to saw me this concept from afternoon onwards i watch that 
+concept. and today mr kowshik class is leave.
