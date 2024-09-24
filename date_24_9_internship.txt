@@ -1,0 +1,4 @@
+24/9/2024
+ Today i learned what is database, why we use database, diffrent types of database. today also Mr koushik internship class is not available. Today mainly i learned 
+that diffrent types of database. i study all the database details but only two main concept of database studied in detailly is enough it's relational database and 
+non-relational database. Because that concept only we have used to create an database in DBMS 
