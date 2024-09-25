@@ -1,0 +1,13 @@
+25/9/2024
+   Today morning koushik class starts easier at 10:30am because of two days his class is leave dueto the reason. Today he teach the topic are token analysis, expression,
+
+syntax, sematics, compilation process, two languages types, compare the english language and programming language, memory, data, information, database, symbols, token,
+expression, declaration, what are keyword, primitive and composit. In computer the process of compiliation is happen by this method. first step by using the symbols to
+form a token symbol are alphabet, number, special character like that. a combination of symbols are token a token that as a meaning in that language are noun, verb 
+like that. a combination of token are valid only. they check the syntax and sematics. syntax means a set of rules, sematics means behind the meaning of the rules.
+so using this concept we can able to built a new language also by using thing concept they built communciaton between human and computer.A computer two types of
+language typed language abd untyped language. then compare the english language(noun, verb) and programming language(number, string). token analysis a values stores
+in memory and the memory have an address. i diffrenciate between data, database, memory. symbol are unicode. unicode means a symbols are used in all language it as
+1.1million are there. token are the keyword, variable, operator and punctuation . expression i has produce something[symbols, token, expression, and declaration] by
+this we can create an language. today start learning postgres database and i install the postgres database in my laptop by study the instruction in w3schools. and
+then i use the sql shell how create a table, insert a data, and retrieve the particular inserted data.
