@@ -1,0 +1,9 @@
+26/9/2024
+  today in koushik class he teaches the topic about computation. A compute means something to be solved. A compilation means human understandable language to machine
+language. in compilation has happened based on token analysis, syntax and sematics. example for an computatiom is input has taken and is store in memory. the next 
+step memory to operation and the operation do the calculation and finally produce the output. then teach the topic about function. in a function inner variable 
+and expression are declared. the function will not execute until and unless to call that function. and he discuss the topic about array and map. A map consists of
+a key-value pairs and an array consists of list of items and then he discuss the topic about function arguments, parameters, global variable declaration, local 
+variable declaration to ask the what output is occured. today i ready the outline of my project. but it's not that much correct. my though are design for an frontend
+and then my mentor varun explain it u have to think from backend vision and i thinking that to processing it.   
+
