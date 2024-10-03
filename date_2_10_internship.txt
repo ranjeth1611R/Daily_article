@@ -1,0 +1,6 @@
+2/10/2024
+   For the past three days i'am searching how to connect the CRUD operation to postgres database. I read the documentation, googling and then i saw some of the youtube 
+videos but i'am still struggling only. i don't get the conculsion how to connect with database. an error is an incorrect password but actually that my password. It's
+really very hurting for me my mind is get depressed. But i can't give up. i am repeated the processing by googling, use the chatgpt how to resolve it, and also i'am
+watches the youtube how to define my postgres database password and how to make an CRUD operation by connecting the database. I'am curiously searching all of 
+this because my focus is to be only how to solve the program. today koushik class is not available. so i don't learn any new thing my thinking only how to resolved it.
