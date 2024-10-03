@@ -1,0 +1,9 @@
+3/10/2024
+   Today i'am successfully connect my CRUD operation to the postgres database with the help of my mentor varun. Today abragam anna asked me how the internship is 
+going on i'am said good anna. then he ask my mentor varun how is my performance He will sustain in this office. varun said that he slow learner. then abragam anna ask
+when u joined this company for an internship. i said that this 12 oct onwards two months completed. He said me that to learn quickly. Based on the performance i can
+take the decision. I'am little bit panic. I ask my mentor varun how to increase my learning skills he said some of the point. Today in koushik class he explain
+about the stack and execution stack. a function has two main thing is declaration and execution. stack means arranging one in top of another. then he explain about the 
+how a block of code is execution in the execution stack. then only i know how the funtion executed his explaination is crystal clear. then explore some of the general
+topic. i'am very excited he explore that thing. then i asked him how do u know all of thing bro his answer is so simple "always be curious". if u are interested then
+create an timing scedule to spend the time for the learned it. so always be in curious if u want to learn something
