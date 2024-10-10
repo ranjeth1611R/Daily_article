@@ -1,0 +1,10 @@
+9/10/2024
+  today i learn and search about the movie ticket booking is done by using the @onetomany and @manytoone using the chatgpt i am search that how to using this decorater
+and how is working explain me with basic and simple program in nest.js framework. then the chatgpt give the example program i learn and execute that program and while
+coming to ticket-booking app i'm confuse and i can't understand that concept. on that time harish is sitting beside me. i asked him can u help me. he said yes and then
+i'm explain my problem he told that i can't use the @onetomany and @manytoone decorader but he know the nest.js concept. then he googling about the decorater. he 
+explain me that concept. he ask one basic question do u need implement that concept in our project scenoria. think twice that then to learn that concept. then only i 
+relaize im wasting my time and me mentor varun is also said that only. he explain me logical. toda koushik class he explain about function execution stack. he write
+one function and he explain it but i can't understand one concept later on i try that i will told u tomorrow i said it. he want write a loop concept without using loop
+only using the recrusive function. everyone solve that in problem in different way and then he explain about the recursive function. on the evening time i go to ask my 
+individual batchmate how u think that function and how it work i asked him and her explain that and they also explained in calmly.
