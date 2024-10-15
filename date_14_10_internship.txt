@@ -1,0 +1,9 @@
+14/10/2024
+   Today in koushik class he told to write an own compiler language by using symbols, token, expression and to form an syntax. Everyone in my group they wrote it and 
+i only don't have an idea how to make an formatation but while listening koushik class i understand all the think. A balance internship guys are wrote they language
+harish language named as ISH, vijay language named as V, and deeptha language named as DEEP. They used there own idea to form symbols, token, expressions and syntax.
+I'm only does anything it really feel me on that place embrassing. Because everyone try something i don't even try that on that time it hurt myself. why i don't this.
+i want to be improve lot of think b execution only i'm improved. i know the code but i don't know the programming. code means it an simple task like print "HELLO WORLD"
+, or find the LARGEST number. but programming is used to form an WEBSITE or APPLICATION. so what i mean means i know the basics but i don't know the formation. so
+for that i have try to solve the problems and today i try to learn how to export the other service in import the one service to use that by know the id of the other 
+export class and use that by make an access of that class.    
