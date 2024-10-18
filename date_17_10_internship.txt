@@ -1,0 +1,9 @@
+17/10/2024
+  Today i'm try to make an online movie ticket booking app. i wrote the thing how the execution will be happening think logically write down on the note and written 
+think are correct i give to my mentor varun this payload is in correct formet. He told that it is an your project so you have to think for that project what all are 
+thing are needed you have to decide for your project while the conversion is built on abishek give me an idea he ask you know how to do the authetication and 
+autherization so you start the project from the scratch means you create an path to make an idea it little bit a create vision is occur for you. while the vision is 
+occur for you need to create an plan while execute the plan u can reach you destiny. i think that he said is an correct think so i'm started learn about the 
+autherication and authorization. i read the documentation to learning that how to do the authentication and authorization work and executed it to check how it works
+and why we needed token like that i learning a lot of thing. 
+
