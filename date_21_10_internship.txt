@@ -1,0 +1,8 @@
+21/10/2024
+   Today i search on chrome about how to make an authetication and authericatian using jwt-token in nest.js. on sunday i'm fully time spending on search and study 
+about this topics only. i study a lot of think i can understand that concept but i'm little bit have an confusion. while first reading the documentation i'm very 
+scared because i can't understand so why this and why we need to install @password like that a lot of doubt are occured. i'm study the concept for two to three time 
+i can understand some basic thing why we need to use this think and it's purpose. I want to understand deep and clearly so seen some of the youtube project
+i make me to give an clear vision how to make an project now i know how to build an authetication. i understand the authentication but i can't understand the
+authorization. i understand the meaning and defination of authorization. but i can't understand how to use the authorization so now i try study about that only.
+
