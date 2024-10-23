@@ -1,0 +1,7 @@
+22/10/2024
+  today i try to do my project with an step-by-step by using the chatgpt to explain the concept detailed and typeerror is occured for me. so i try to resolve the error
+first step i'm read the error and the error is occur from which file i defined the file and then on that file which line is error there will be an red notification on 
+particular or approximate show where is error. First i try my own idea to make an console.log to find what the statement or condition are occured on that particular 
+line or access method is wrong there will be defined that some of constraints rules are not satisfied means there will be an error is occured. or otherswise using the 
+chargpt to copy the error and paste the error in the chatgpt it give some line ou make an alteranation means to resolve the error. i try that but the error cannot solve
+so next ask to my mentor varun bro i try my best i can't resolve this error can u help to resolve then he try to make me think and he resolve it 
